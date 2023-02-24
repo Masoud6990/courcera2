@@ -1,1 +1,1 @@
-# courcera2
+# Python project for Data science assignement
